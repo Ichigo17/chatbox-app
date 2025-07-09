@@ -1,4 +1,4 @@
-# Chatbox Application
+# chatbox-app# Chatbox Application
 
 This project is a simple chatbox application built with TypeScript. It allows users to send and receive messages in real-time.
 
